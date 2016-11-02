@@ -22,7 +22,7 @@ Or install it yourself as:
 
 Add the following code to ``application.js``:
 ```
-//= react-autocomplete
+//= require react-autocomplete
 ```
 
 ## Development
@@ -34,3 +34,8 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/actmd/react-autocomplete-rails.
+
+## License
+
+The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
