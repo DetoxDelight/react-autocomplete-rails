@@ -6,12 +6,12 @@ require 'react/autocomplete/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "react-autocomplete-rails"
   spec.version       = React::Autocomplete::Rails::VERSION
-  spec.authors       = ["Joon Lee"]
-  spec.email         = ["joon@act.md"]
+  spec.authors       = ["Michael Johann"]
+  spec.email         = ["mjohann@rails-experts.com"]
 
   spec.summary       = %q{Rails wrapper for React Autocomplete JavaScript library}
   spec.description   = %q{Rails wrapper for React Autocomplete JavaScript library (https://github.com/reactjs/react-autocomplete). The version number of this gem follows the version number of the original JavaScript library.}
-  spec.homepage      = "https://github.com/actmd/react-autocomplete-rails"
+  spec.homepage      = "https://github.com/DetoxDelight/react-autocomplete-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
